@@ -24,8 +24,11 @@ source_url: '/index.md'
 * [xfce](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/xfce)
 * [lxqt-with-openbox](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/lxqt-with-openbox)
 * [lxqt-with-xfwm4](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/lxqt-with-xfwm4)
+* [xsession-wm-xfwm4-with-tint2](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype-xsession/xsession-wm-xfwm4/xsession-wm-xfwm4-with-tint2)
+* [xsession-wm-xfwm4-with-cairo-dock](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype-xsession/xsession-wm-xfwm4/xsession-wm-xfwm4-with-cairo-dock)
 
 
 ## Style Tool
 
 * [style-xfce](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/project/style-xfce)
+* [qt5-style-plugins](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype-subject/style-platformtheme/qt5-style-plugins)
