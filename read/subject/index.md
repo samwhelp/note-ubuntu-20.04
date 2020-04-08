@@ -14,3 +14,7 @@ source_url: '/read/subject/index.md'
 ## 其他「桌面環境(Desktop Environment)」或是「視窗管理器 (Window Manager)」
 
 * [openbox](openbox)
+* [spectrwm](spectrwm)
+* [bspwm](bspwm)
+* [xfce](xfce)
+* [lxqt](lxqt)
