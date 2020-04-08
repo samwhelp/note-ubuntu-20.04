@@ -9,3 +9,8 @@ source_url: '/read/subject/index.md'
 
 
 ## Ubuntu 20.04 (Focal Fossa)
+
+
+## 其他「桌面環境(Desktop Environment)」或是「視窗管理器 (Window Manager)」
+
+* [openbox](openbox)
