@@ -18,3 +18,11 @@ source_url: '/read/subject/index.md'
 * [bspwm](bspwm)
 * [xfce](xfce)
 * [lxqt](lxqt)
+
+
+## Terminal
+
+* [sakura](sakura)
+* [xfce4-terminal](xfce4-terminal)
+* [gnome-terminal](gnome-terminal)
+* [qterminal](qterminal)
