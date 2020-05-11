@@ -29,7 +29,7 @@ int main (
 	const gchar *name;
 
 	gtk_init(&argc, &argv);
-	obc_config_file = "/home/user/.config/openbox/rc.xml";
+	//obc_config_file = "/home/user/.config/openbox/rc.xml";
 
 	paths = obt_paths_new();
     parse_i = obt_xml_instance_new();

@@ -5,6 +5,7 @@
 * [main](main)
 * [theme-set](theme-set)
 * [theme-set-makefile](theme-set-makefile)
+* [theme-set-meson](theme-set-meson)
 
 ## Prepare
 
