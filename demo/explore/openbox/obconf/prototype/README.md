@@ -81,3 +81,12 @@ show
 ```
 -I/usr/include/openbox/3.6 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/libxml2 -lobt -lSM -lICE -lX11 -lglib-2.0 -lxml2
 ```
+
+## Reference 
+
+* http://www.study-area.org/cyril/opentools/opentools/x864.html
+* https://blog.gtwang.org/programming/gcc-comipler-basic-tutorial-examples/
+* https://blog.gtwang.org/programming/howto-create-library-using-gcc/
+* https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
+* https://github.com/JLErvin/berry/blob/master/Makefile
+
