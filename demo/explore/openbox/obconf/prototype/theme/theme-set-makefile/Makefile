@@ -1,5 +1,7 @@
 
-CFLAGS = `pkg-config --cflags --libs obt-3.5 gtk+-3.0`
+#CFLAGS = `pkg-config --cflags --libs obt-3.5 gtk+-3.0`
+CFLAGS = $(shell pkg-config --cflags --libs obt-3.5 gtk+-3.0)
+
 
 APP = demo
 SRC = main.c tree.c
