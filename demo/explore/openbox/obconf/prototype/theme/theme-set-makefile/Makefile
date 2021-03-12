@@ -1,4 +1,8 @@
 
+
+## http://git.suckless.org/dwm/file/Makefile.html
+## http://dwm.suckless.org/
+
 #CFLAGS = `pkg-config --cflags --libs obt-3.5 gtk+-3.0`
 CFLAGS = $(shell pkg-config --cflags --libs obt-3.5 gtk+-3.0)
 
