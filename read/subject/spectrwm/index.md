@@ -11,6 +11,11 @@ source_url: '/read/subject/spectrwm/index.md'
 ---
 
 
+## 相關筆記
+
+* [spectrwm 探索筆記](https://samwhelp.github.io/note-about-spectrwm/)
+
+
 ## Install Script
 
 * play-ubuntu-20.04-plan / prototype / [spectrwm](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/spectrwm)

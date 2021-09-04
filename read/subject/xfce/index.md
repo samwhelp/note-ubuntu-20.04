@@ -11,6 +11,11 @@ source_url: '/read/subject/xfce/index.md'
 ---
 
 
+## 相關筆記
+
+* [xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/)
+
+
 ## Install Script
 
 * play-ubuntu-20.04-plan / prototype / [xfce](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/xfce)

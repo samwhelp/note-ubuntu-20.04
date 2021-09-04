@@ -11,6 +11,11 @@ source_url: '/read/subject/openbox/index.md'
 ---
 
 
+## 相關筆記
+
+* [openbox 探索筆記](https://samwhelp.github.io/note-about-openbox/)
+
+
 ## Install Script
 
 * play-ubuntu-20.04-plan / prototype / [openbox](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/openbox)
