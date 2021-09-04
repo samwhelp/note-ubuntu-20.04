@@ -11,6 +11,11 @@ source_url: '/read/subject/bspwm/index.md'
 ---
 
 
+## 相關筆記
+
+* [bspwm 探索筆記](https://samwhelp.github.io/note-about-bspwm/)
+
+
 ## Install Script
 
 * play-ubuntu-20.04-plan / prototype / [bspwm](https://github.com/samwhelp/play-ubuntu-20.04-plan/tree/master/prototype/bspwm)
